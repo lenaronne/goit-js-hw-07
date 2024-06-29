@@ -1,0 +1,24 @@
+body {
+  font-family: 'Gilroy', 'Arial', sans-serif;
+  color: #0c0c0c;
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: transparent;
+}
+
+img {
+  display: block;
+  height: auto;
+}
+
+input {
+  outline: transparent;
+}
+
+a {
+  text-decoration: none;
+}
